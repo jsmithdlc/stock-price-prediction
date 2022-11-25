@@ -2,7 +2,13 @@
 
 ---
 
-Started as a project for diving into time-series
+Started as a project for diving into time-series. Developed using Python 3.10.
+To use this repo, please install the specified dependencies using pip:
+
+```bash
+pip install -r requirements.txt
+
+```
 
 ## Data
 
